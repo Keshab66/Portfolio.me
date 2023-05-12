@@ -32,9 +32,14 @@ export const SkillsData = [
         icon: <i class="devicon-bootstrap-plain colored"></i>
       },
       {
-        name: "Azure",
-        icon: <i class="devicon-azure-plain colored"></i>
+        name: "Figma",
+        icon: <i class="devicon-figma-plain colored"></i>
       },
+      {
+        name: "Webflow design",
+        icon: <i class="devicon-webflow-original colored"></i>
+      }
+      
     ],
   },
 ];

@@ -1,18 +1,18 @@
 .separator {
   background-image: linear-gradient(
      to right top,
-     #3654e7,
-     #5c52e9,
-     #874feb,
+     #36e736,
+     #94e240,
+     #474549,
      #914aeb,
-     #a745ea,
-     #7d68fb,
+     #e7ca2a,
+     #7e68fbb3,
      #4d7fff,
-     #0091ff,
+     #ffcc00,
      #00acfd,
-     #00bdd9,
+     #42d2e8,
      #00c8a3,
-     #6bcc70
+     #c93131
    );
    height: 6px;
    width: 40%;
