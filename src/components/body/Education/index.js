@@ -1,8 +1,8 @@
 import React from "react";
-import "./work.css";
+import "./education.css";
 import Separator from "../../common/separator";
 import {Eduactiondata} from "../../data/education";
-import WorkCard from "./work-card";
+import EducationCard from "./education-card";
 function Work() {
   const data = Eduactiondata;
   return (
@@ -11,7 +11,7 @@ function Work() {
       <label className="section-title">Education</label>
       <div className="work-list">
         {data.map((item) => {
-          return <WorkCard item={item} />;
+          return <EducationCard item={item} />;
         })}
       </div>
     </div>

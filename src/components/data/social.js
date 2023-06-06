@@ -2,12 +2,12 @@ export const SocialData=[
     {
         platform:"Github",
         icon: require("../../assets/icons/github.png"),
-        link:"",
+        link:"https://github.com/Keshab66",
     },
     {
         platform:"Linkedin",
         icon: require("../../assets/icons/linkedin.png"),
-        link:"",
+        link:"https://www.linkedin.com/in/keshaba-pradhan-257919201/",
     },
     {
         platform:"Youtube",
